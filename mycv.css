@@ -1,0 +1,106 @@
+.fa-envelope {
+    margin-left: 50px;
+    padding-top: 10px;
+    color:rgb(36, 192, 192) ;
+    font-size: 30px;
+}
+.fa-phone,.fa-location-pin,.fa-calendar-days{
+    margin-left: 60px;
+    padding-top: 10px;
+    color:rgb(36, 192, 192) ;
+    font-size: 30px;
+}
+.mail,.phone,.address,.date{
+    font-size: 25px;
+    color: white;
+    padding-left: 3px;
+    padding-bottom: 7px;
+    text-decoration: none;  
+}
+.below{
+    color: rgb(14, 202, 99);
+    margin-left: 50px;
+    margin-bottom: 5px;
+    
+}
+.divtotal{
+    height:8cm ; 
+    background-color: blueviolet;
+    width: 100%;
+    margin-bottom:0;
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+.heading1{
+    margin-left: 50PX;
+     margin-top: 10px;
+     padding-top: 15px; 
+     color:white;
+     padding-bottom: 0px;
+     border-bottom: 0px;
+     margin-bottom: 0;
+}
+.heading2{
+    margin-left: 50PX;
+    color: rgb(14, 202, 99) ;
+    margin-top:0px;
+    padding-top: 0px;
+    border-top: 0px;
+    margin-bottom: 10px;
+}
+.para1{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size:17pt ;
+    
+    color: white;
+}
+.div1{
+    height:1.5cm;
+    width: 100%;
+    background-color: rgb(27, 13, 177);
+    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
+    margin-left: ;
+}
+.myimg{
+   border-top: 20px;
+    height: 250px;
+    width: 210px;
+    border-radius:50%;  
+}
+.task{
+    margin-left: 30px;
+    font-size: 14pt;
+   
+}
+.skill{
+    
+    background-color: rgb(138, 122, 213);
+    border-radius: 7px;
+    font-size: 18px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 30px 50px 0px;
+    border-style: solid;
+    border-radius: 10%;
+    border-color:blue ;
+    border-width: 3px;
+   
+
+    
+}
+.hobby1{
+    margin-left: 80px;
+    padding: 10px 10px 10px 10px;
+    border-style: solid ;
+    border-color: rgba(112, 106, 106, 0.695);
+    border-radius:10px;
+}
+.hobby2{
+    margin-left: 30px;
+    padding: 10px 10px 10px 10px;
+    border-style: solid ;
+    border-color: rgba(112, 106, 106, 0.695);
+    border-radius:10px;
+}
