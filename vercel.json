@@ -1,7 +1,7 @@
 {
 
 "rewrites": [
-{"source": "/(.*)", "destination": "/mycv.html"}
+{"source": "/(.*)", "destination": "/calculator.html"}
 
      ]
 }
